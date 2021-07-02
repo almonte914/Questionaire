@@ -1,3 +1,3 @@
 # Questionaire
 
-This is a form questionaire utilizing Bootstrap.
+This is a survey form questionaire utilizing Bootstrap.
